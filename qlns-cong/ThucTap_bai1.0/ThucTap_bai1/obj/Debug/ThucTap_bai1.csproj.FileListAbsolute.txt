@@ -38,3 +38,6 @@ E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap
 E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.csproj.GenerateResource.Cache
 E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe
 E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap_bai1.pdb
+G:\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe.config
+G:\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.exe
+G:\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.pdb
