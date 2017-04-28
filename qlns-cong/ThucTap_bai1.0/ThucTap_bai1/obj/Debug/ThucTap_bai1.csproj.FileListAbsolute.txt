@@ -41,3 +41,6 @@ E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap
 G:\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe.config
 G:\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.exe
 G:\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.pdb
+E:\Kho chua\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe.config
+E:\Kho chua\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.exe
+E:\Kho chua\QuanLyNhanSu\qlns-cong\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.pdb
