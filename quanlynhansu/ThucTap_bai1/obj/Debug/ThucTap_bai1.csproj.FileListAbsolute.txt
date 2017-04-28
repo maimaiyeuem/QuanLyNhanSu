@@ -1,0 +1,11 @@
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe.config
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.pdb
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.csprojResolveAssemblyReference.cache
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.Form1.resources
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.frmThongKeChuyenMon.resources
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.Properties.Resources.resources
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.frmThongKeThuNhap.resources
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.csproj.GenerateResource.Cache
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.exe
+H:\THUCTAPKI6\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.pdb
