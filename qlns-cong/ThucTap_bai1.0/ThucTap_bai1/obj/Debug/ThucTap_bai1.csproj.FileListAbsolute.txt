@@ -1,0 +1,40 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.pdb
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe.config
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.exe
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.pdb
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.pdb
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.csprojResolveAssemblyReference.cache
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.Form1.resources
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.Properties.Resources.resources
+H:\ThucTap_1\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.csproj.GenerateResource.Cache
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe.config
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.exe
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.pdb
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\bin\Debug\ThucTap_bai1.pdb
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.csprojResolveAssemblyReference.cache
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.Properties.Resources.resources
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.csproj.GenerateResource.Cache
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.frmMenu.resources
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.frmThem.resources
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1\ThucTap_bai1\obj\Debug\ThucTap_bai1.frmSua.resources
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe.config
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.exe
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.pdb
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.csprojResolveAssemblyReference.cache
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.frmMenu.resources
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.frmSua.resources
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.frmThem.resources
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.Properties.Resources.resources
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\obj\Debug\ThucTap_bai1.csproj.GenerateResource.Cache
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap_bai1.exe
+E:\Kho chua\QuanLyNhanSu_bai1-hiep\ThucTap_bai1.0\ThucTap_bai1\bin\Debug\ThucTap_bai1.pdb
