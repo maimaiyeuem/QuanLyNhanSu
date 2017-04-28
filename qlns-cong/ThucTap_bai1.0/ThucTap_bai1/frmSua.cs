@@ -203,5 +203,10 @@ namespace ThucTap_bai1
                 }
             }
         }
+
+        private void grpChitiet_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
