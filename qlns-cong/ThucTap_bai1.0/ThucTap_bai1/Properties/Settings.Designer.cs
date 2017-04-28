@@ -26,22 +26,22 @@ namespace ThucTap_bai1.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=CONGDAO-PC\\SQLEXPRESS;Initial Catalog=QuanLyNhanSu;Integrated Securit" +
-            "y=True")]
-        public string QuanLyNhanSuConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=EDWARD\\SQLEXPRESS;Initial Catalog=[THUCTAP5]_QuanLyNhanSu;Integrated " +
+            "Security=True")]
+        public string _THUCTAP5__QuanLyNhanSuConnectionString {
             get {
-                return ((string)(this["QuanLyNhanSuConnectionString"]));
+                return ((string)(this["_THUCTAP5__QuanLyNhanSuConnectionString"]));
             }
         }
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=CONGDAO-PC\\SQLEXPRESS;Initial Catalog=QuanLiNhanSu_TT;Integrated Secu" +
-            "rity=True")]
-        public string QuanLiNhanSu_TTConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=HDAVU\\SQLEXPRESS;Initial Catalog=QuanLyNhanSu;Integrated Security=Tru" +
+            "e")]
+        public string QuanLyNhanSuConnectionString {
             get {
-                return ((string)(this["QuanLiNhanSu_TTConnectionString"]));
+                return ((string)(this["QuanLyNhanSuConnectionString"]));
             }
         }
     }

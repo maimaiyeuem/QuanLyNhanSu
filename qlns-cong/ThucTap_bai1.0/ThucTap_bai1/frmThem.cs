@@ -19,7 +19,7 @@ namespace ThucTap_bai1
             InitializeComponent();
         }
 
-        string imageLocate ="";
+        string imageLocate = "";
 
         private void frmThem_Load(object sender, EventArgs e)
         {
@@ -46,9 +46,13 @@ namespace ThucTap_bai1
                     //
 
                     byte[] img = null;
-                    FileStream fst = new FileStream(imageLocate, FileMode.Open, FileAccess.Read);
-                    BinaryReader br = new BinaryReader(fst);
-                    img = br.ReadBytes((int)fst.Length);
+
+                    if (imageLocate != "")
+                    {
+                        FileStream fst = new FileStream(imageLocate, FileMode.Open, FileAccess.Read);
+                        BinaryReader br = new BinaryReader(fst);
+                        img = br.ReadBytes((int)fst.Length);
+                    }
 
 
                     //
